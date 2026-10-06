@@ -243,4 +243,4 @@ This repository serves as the official landing page for Serious Sam Forever. The
 **Get the most recent version of Serious Sam Forever today!**
 
 ---
-**Last updated:** 2026-10-06 02:42:21 UTC
+**Last updated:** 2026-10-06 09:34:03 UTC
